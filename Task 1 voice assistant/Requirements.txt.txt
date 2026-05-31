@@ -1,0 +1,10 @@
+SpeechRecognition
+pyttsx3
+wikipedia
+pywhatkit
+requests
+openai
+pyaudio
+PyAudio
+setuptools
+wheel
